@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796001667089",
+    "project_id": "jot-it-737e7",
+    "storage_bucket": "jot-it-737e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796001667089:android:65654e4f44a227e037c9b0",
+        "android_client_info": {
+          "package_name": "com.example.jot_it_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796001667089-vrl99ahuqkckghcopvbhke8iui6lgev6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jV4aFpwGhkwcXwy68pgwGdg02Kx3Ico"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796001667089-vrl99ahuqkckghcopvbhke8iui6lgev6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

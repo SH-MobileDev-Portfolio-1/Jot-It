@@ -37,6 +37,13 @@ class _LoginScreenState extends State<LoginScreen> {
                             color: Colors.deepPurple,
                             fontSize:50,
                             fontWeight: FontWeight.bold,
+                              shadows: [
+                                const BoxShadow(
+                                  blurRadius: 5,
+                                  color: Colors.deepPurple,
+                                  offset: Offset(3, 3),
+                                )
+                              ]
                           ),
                           children: [
                             TextSpan(

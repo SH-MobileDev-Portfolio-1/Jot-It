@@ -22,7 +22,7 @@ class ButtonWidget extends StatelessWidget {
       ),
       child: Center(
         child: Text(text, style: GoogleFonts.poppins(
-            fontSize: 24, color: textColor, fontWeight: FontWeight.bold
+            fontSize: 14, color: textColor, fontWeight: FontWeight.bold
         )),
       ),
     );

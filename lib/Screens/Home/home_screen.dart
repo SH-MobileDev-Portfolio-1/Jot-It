@@ -127,7 +127,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               Text(
                                 "${data['title']}",
                                 style: GoogleFonts.poppins(
-                                  fontSize: 20.0,
+                                  fontSize: 15.0,
                                   fontWeight: FontWeight.bold,
                                   color: Colors.black87,
                                 ),
@@ -136,7 +136,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               Text(
                                 formattedTime,
                                 style: GoogleFonts.poppins(
-                                    fontSize: 15.0,
+                                    fontSize: 12.0,
                                     color: Colors.black38
                                 ),
                               )
